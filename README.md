@@ -28,3 +28,4 @@ AI Lagrge models Router
 # 参考
 * https://github.com/Portkey-AI/gateway.git
 * https://github.com/langgenius/dify.git  dify中模型路由
+* https://openrouter.ai/
