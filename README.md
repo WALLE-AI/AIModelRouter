@@ -21,8 +21,10 @@ AI Lagrge models Router
   * 模型服务商配置，包括对应图表：参考dify model provider模块
   * OpenAI-Like接口统一，参考 AI getway 策略
   * 接口文档服务，前期参考fastapi做
-* Python SDK
+* Python SDK 开发
   * 参考Ai getway,
+* 开发周期
+  * 一个月
 # 参考
 * https://github.com/Portkey-AI/gateway.git
 * https://github.com/langgenius/dify.git  dify中模型路由
